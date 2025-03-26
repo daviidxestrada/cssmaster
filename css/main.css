@@ -1,5 +1,10 @@
 h1{
     color: rgb(214, 214, 82);
+    font-size: 50px;
+}
+
+#primer-titulo {
+    color: yellow;
 }
 
 h2{
@@ -8,8 +13,14 @@ h2{
 
 p{
     color: green;
+    font-size: 18px;
+  font-style: italic;
+  font-weight: 200;
+  line-height: 1;
+
 }
 
-h1{
-    color: rgb(22, 194, 197);
+.orange{
+   color: orange;
+   font-family: 'Courier New', Courier, monospace ;
 }
